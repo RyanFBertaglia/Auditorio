@@ -76,7 +76,7 @@ composer require doctrine/annotations
 <img src="./view/static/img/create.png" width="700" style="border: 1px solid #ddd; border-radius: 5px;" alt="Página de criação de posts">
 
 ### Comentarios / Comentar:
-<img src="./view/static/img/comment.png" width="700" style="border: 1px solid #ddd; border-radius: 5px;" alt="Página de comentários">
+<img src="./view/static/img/comment.gif" width="700" style="border: 1px solid #ddd; border-radius: 5px;" alt="Página de comentários">
 
 ### Acompanhar seus Posts:
 <img src="./view/static/img/minha-conta.gif" width="700" style="border: 1px solid #ddd; border-radius: 5px;" alt="Acompanhamento de posts do usuário">

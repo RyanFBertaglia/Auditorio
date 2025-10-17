@@ -54,7 +54,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <input type="text" name="nome" required placeholder="Nome" />
         <input type="password" name="senha" required placeholder="Senha" />
         <button type="submit">Cadastrar</button>
-        <a href="/register">Já possui uma conta? Login</a>
+        <a href="/login">Já possui uma conta? Login</a>
 
     </form>
 </body>
